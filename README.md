@@ -4,26 +4,15 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Version 1.0
+* [გამოყენებული ინფორმაცია](https://www.redcrossblood.org/donate-blood/blood-types.html)
 
-### How do I get set up? ###
+### used modules ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+* flask(render_template, redirect, url_for, session)
+* flask_sqlalchemy
+* hashlib
+* bs4
+* requests
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
